@@ -84,7 +84,7 @@ ul.social-icons li a:hover {
 	-moz-border-radius: 50%;
 	border-radius: 50%;
 	text-align:center;
-	border:8px solid #203748;
+	border:8px solid #9fa8da ;
 	float:right;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
@@ -239,7 +239,7 @@ ul.work-images li:first-child {
 }
 ul.work-images li div {
 	background:url(../img/eye.png) 50% 50% no-repeat;
-	background-color: #f04949;
+	background-color: #b2dfdb ;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
@@ -262,7 +262,7 @@ ul.work-images li img:hover {
 	text-align:center;
 }
 .footer {
-	background:#355267;
+	background:#000;
 	position: fixed;
 	width: 100%;
 	bottom:0;
