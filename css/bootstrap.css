@@ -758,10 +758,10 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
 	cursor: pointer;
 }
 .label-important, .badge-important {
-	background-color: #b94a48;
+	background-color: #fff;
 }
 .label-important[href], .badge-important[href] {
-	background-color: #953b39;
+	background-color: #fff;
 }
 .label-warning, .badge-warning {
 	background-color: #f89406;
